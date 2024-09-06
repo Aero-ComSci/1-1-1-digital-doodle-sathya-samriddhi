@@ -3,11 +3,17 @@
 
 ## Include the following in this read me
 
-1. Who is this app for?
-1. What does it do, how does it work
-1. Add screenshots of the design view or actual app
-1. Blocks that you showcase your individual skill
-1. The images you created
+1. This app can be used by anybody of any age. It is directed towards people who want to add a little bit of fun and creative touches to their photos, or for people who love to draw, beginners mostly. 
+1. It allows the user to paint/draw on a blank or colorful canvas with a choice of 10 whole different colors to choose from. You can choose either a blank, colorful, or take a photo as your background. There are also ten themes/ photos for backgrounds to choose from that we have implemented to the app. 
+1. ![IMG_0374](https://github.com/user-attachments/assets/131f10b5-0069-4c64-8d7f-1f6e99a53ff3)
+2. ![Screenshot 2024-09-06 122401](https://github.com/user-attachments/assets/10b44072-46d6-4a63-b3c5-3341ee7cbd6e)
+3. ![Screenshot 2024-09-06 122345](https://github.com/user-attachments/assets/31c19f74-184d-4763-ae53-01738889738f)
+
+
+
+1. We had a few blocks while designing and coding this app, but the biggest one was probably finding a way to add a save button to the app, so that the user can save/import the drawing/photo that they created to their device. Also, another slightly hard part was trying to figure out how to keep the canvas drawable after clearing the image, which was possible by changing the backgroundIMAGE, not the background. 
+1. ![IMG_0375](https://github.com/user-attachments/assets/39687c3e-5c50-41fe-8e68-503c934712cb)
+
 
    Add the MIT App Inventor File to the Repository
 
